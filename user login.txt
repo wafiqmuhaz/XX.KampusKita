@@ -1,0 +1,7 @@
+admin
+email : wafiqmuhaz@gmail.com
+pass : 111111
+
+mahasiswa
+email : wfqegs01@gmail.com
+pass : 111111
